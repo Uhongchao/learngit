@@ -1,4 +1,4 @@
-#include <iostream>
+﻿#include <iostream>
 #include <opencv2\imgproc.hpp>	//opencv头文件
 #include <opencv2\calib3d.hpp>
 #include <opencv2\highgui.hpp>
@@ -48,6 +48,7 @@ int main(void)
     //**********************以上为BodyFrame以及Mapper的准备***********************
     while (1)
     {
+//kkkkk
  
         while (myColorReader->AcquireLatestFrame(&myColorFrame) != S_OK);
         myColorFrame->CopyConvertedFrameDataToArray(colorHeight * colorWidth * 4, original.data, ColorImageFormat_Bgra);
