@@ -12,7 +12,7 @@ using   namespace   cv;
 //aaaaa
 >>>>>>> featurel
 //lllllllll
-//xiugai
+//XIUGAI
  
 void    draw(Mat & img, Joint & r_1, Joint & r_2, ICoordinateMapper * myMapper);
 int main(void)
