@@ -6,7 +6,11 @@
  
 using   namespace   std;
 using   namespace   cv;
+<<<<<<< HEAD
 //vvvvvvvvvvvvv
+=======
+//aaaaa
+>>>>>>> featurel
 //lllllllll
 //kkksjkdjkjfjhfkfjf
  
